@@ -1,1 +1,1 @@
-# Skeleton project for Swagger
+# Simple server to pubish on heroku
